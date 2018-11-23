@@ -1,0 +1,18 @@
+[submodule "Java-Battleship"]
+	path = Java-Battleship
+	url = https://github.com/BreD1810/Java-Battleship
+[submodule "SlidingPuzzle"]
+	path = SlidingPuzzle
+	url = https://github.com/BreD1810/SlidingPuzzle
+[submodule "Programming-1-Labs"]
+	path = Programming-1-Labs
+	url = https://github.com/BreD1810/Programming-1-Labs
+[submodule "Programming-2-Labs"]
+	path = Programming-2-Labs
+	url = https://github.com/BreD1810/Programming-2-Labs
+[submodule "Space-Cadets"]
+	path = Space-Cadets
+	url = https://github.com/BreD1810/Space-Cadets
+[submodule "Advent-of-Code-2017"]
+	path = Advent-of-Code-2017
+	url = https://github.com/BreD1810/Advent-of-Code-2017
