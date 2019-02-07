@@ -16,3 +16,6 @@
 [submodule "Advent-of-Code-2017"]
 	path = Advent-of-Code-2017
 	url = https://github.com/BreD1810/Advent-of-Code-2017
+[submodule "Pexip"]
+	path = Pexip
+	url = https://github.com/BreD1810/Pexip
